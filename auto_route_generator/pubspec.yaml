@@ -14,8 +14,14 @@ dependencies:
   build_runner: ^2.1.5
   code_builder: ^4.1.0
   dart_style: ^2.2.0
+  
   auto_route:
-       ^3.1.0
+    git:
+      url: https://github.com/tiamo/auto_route_library.git
+      path: auto_route
+
+#  auto_route:
+#       ^3.1.0
 #    path: ../auto_route
 
 
